@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.github.phase1geo.annotator\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-30 23:16-0500\n"
-"PO-Revision-Date: 2021-09-11 10:59+0200\n"
+"PO-Revision-Date: 2021-10-03 15:39+0100\n"
 "Last-Translator: Albano Battistella <albano_battistella@hotmail.com>\n"
 "Language-Team: ITALIAN <LL@li.org>\n"
 "Language: It\n"
@@ -30,129 +30,127 @@ msgstr "Annota l'immagine negli appunti"
 
 #: src/CanvasImage.vala:93 src/CanvasImage.vala:116
 msgid "change image"
-msgstr ""
+msgstr "cambia immagine"
 
 #: src/CanvasImage.vala:327
 msgid "image crop"
-msgstr ""
+msgstr "ritaglio immagine"
 
 #: src/canvas_items/CanvasItemBlur.vala:125
 msgid "Blur Amount:"
-msgstr ""
+msgstr "Quantità di sfocatura:"
 
 #: src/canvas_items/CanvasItemMagnifier.vala:175
 msgid "Drag to control amount of zoom"
-msgstr ""
+msgstr "Trascina per controllare la quantità di zoom"
 
 #: src/canvas_items/CanvasItemMagnifier.vala:176
 msgid "Drag to change area to magnify"
-msgstr ""
+msgstr "Trascina per cambiare area da ingrandire"
 
 #: src/canvas_items/CanvasItemMagnifier.vala:201
 msgid "Magnification:"
-msgstr ""
+msgstr "Ingrandimento:"
 
 #: src/canvas_items/CanvasItemMagnifier.vala:214
 msgid "Reset Focal Point"
-msgstr ""
+msgstr "Ripristina Punto Focale"
 
 #: src/canvas_items/CanvasItemSequence.vala:95
 msgid "Sequence Number:"
-msgstr ""
+msgstr "Numero di Sequenza:"
 
 #: src/canvas_items/CanvasItemStar.vala:145
 msgid "Points:"
-msgstr ""
+msgstr "Punti:"
 
 #: src/canvas_items/CanvasItemText.vala:109
 msgid "Text"
-msgstr ""
+msgstr "Testo"
 
 #: src/CanvasItems.vala:804
 msgid "move items"
-msgstr ""
+msgstr "sposta oggetti"
 
 #: src/CanvasItems.vala:879 src/FormatBar.vala:55
 msgid "Copy"
-msgstr ""
+msgstr "Copia"
 
 #: src/CanvasItems.vala:880 src/FormatBar.vala:60
 msgid "Cut"
-msgstr ""
+msgstr "Taglia"
 
 #: src/CanvasItems.vala:882
 msgid "Delete"
-msgstr ""
+msgstr "Cancella"
 
 #: src/CanvasItems.vala:884
 msgid "Send to Front"
-msgstr ""
+msgstr "Invia in primo piano"
 
 #: src/CanvasItems.vala:885
 msgid "Send to Back"
-msgstr ""
+msgstr "Rimanda indietro"
 
 #: src/CanvasItem.vala:247
 msgid "resize item"
-msgstr ""
+msgstr "ridimensiona elemento"
 
 #: src/CanvasToolbar.vala:59
 msgid "Add Shape"
-msgstr ""
+msgstr "Aggiungi Forma"
 
 #: src/CanvasToolbar.vala:98
 msgid "Add Sticker"
-msgstr ""
+msgstr "Aggiungi Sticher"
 
 #: src/CanvasToolbar.vala:194
 msgid "Add Sequence Number"
-msgstr ""
+msgstr "Aggiungi Numero Sequenza"
 
 #: src/CanvasToolbar.vala:210
 msgid "Pencil Tool"
-msgstr ""
+msgstr "Strumento Matita"
 
 #: src/CanvasToolbar.vala:226
 msgid "Add Text"
-msgstr ""
+msgstr "Aggiungi Testo"
 
 #: src/CanvasToolbar.vala:241
 msgid "Add magnifier"
-msgstr ""
+msgstr "Aggiungi lente d'ingrandimento"
 
 #: src/CanvasToolbar.vala:257
 msgid "Add Blur Box"
-msgstr ""
+msgstr "Aggiungi casella di sfocatura"
 
 #: src/CanvasToolbar.vala:273
-#, fuzzy
 msgid "Crop Image"
-msgstr "Apri Immagine"
+msgstr "Ritaglia Immagine"
 
 #: src/CanvasToolbar.vala:301 src/Resizer.vala:155
-#, fuzzy
 msgid "Resize Image"
-msgstr "Apri Immagine"
+msgstr "Ridimensiona Immagine"
 
 #: src/CanvasToolbar.vala:320
 msgid "Shape Color"
-msgstr ""
+msgstr "Colore Forma"
 
 #: src/CanvasToolbar.vala:345
 msgid "Item Color"
-msgstr ""
+msgstr "Colore Oggetto"
 
 #: src/CanvasToolbar.vala:384
 msgid "Add Transparency"
-msgstr ""
+msgstr "Aggiungi Trasparenza"
 
 #: src/CanvasToolbar.vala:406
 msgid "Shape Border"
-msgstr ""
+msgstr "Bordo Forma"
 
 #: src/CanvasToolbar.vala:415
 msgid "Border Width"
-msgstr ""
+msgstr "Larghezza del Bordo"
 
 #: src/CanvasToolbar.vala:440
 msgid "Dash Pattern"
@@ -160,7 +158,7 @@ msgstr ""
 
 #: src/CanvasToolbar.vala:481
 msgid "Font Properties"
-msgstr ""
+msgstr "Proprietà del Carattere"
 
 #: src/Exporter.vala:49
 msgid "JPEG Image (JPEG)"
